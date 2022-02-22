@@ -1992,8 +1992,6 @@ Don't forget to hit the :star:, If you like this repo.
   
 <details>
 <summary>Preview  </summary>
-
-[Sabihashaik](Sabihashaik.md ':include')
   
 
 [Sabihashaik](https://github.com/Sabihashaik)
