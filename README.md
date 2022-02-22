@@ -1988,6 +1988,14 @@ Don't forget to hit the :star:, If you like this repo.
 
 ## S
 
+[Shatil](https://github.com/shatilsarower)
+  
+<details>
+<summary>Preview  </summary>
+
+[Sabihashaik](Sabihashaik.md ':include')
+  
+
 [Sabihashaik](https://github.com/Sabihashaik)
   
 <details>
